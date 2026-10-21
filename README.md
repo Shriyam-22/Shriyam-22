@@ -55,11 +55,10 @@ approach:   measure first · guardrails in code · ship small, test everything
 
 <br>
 
-### `$ git log --stats`
+### `$ git log --languages`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shriyam-22&show_icons=true&hide_border=true&bg_color=0B0F1E&title_color=C6FF3D&icon_color=9D8FFF&text_color=A3A9C7&rank_icon=github" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriyam-22&layout=compact&hide_border=true&bg_color=0B0F1E&title_color=C6FF3D&text_color=A3A9C7" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriyam-22&layout=compact&card_width=420&hide_border=true&bg_color=0B0F1E&title_color=C6FF3D&text_color=A3A9C7" height="165" alt="Top languages">
 </div>
 
 <br>
