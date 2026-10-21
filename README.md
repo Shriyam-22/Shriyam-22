@@ -20,7 +20,7 @@ I come from test automation, and it shows: I ship with tests that run offline, a
 Each project starts from a real user's problem, not from the model: a support team drowning in "where is my order?", a PR team losing track of coverage, a classifier where a missed diagnosis costs more than a false alarm.
 
 ```yaml
-focus:      [LLM agents, tool calling, retrieval, evals, applied ML]
+focus:      [LLM agents, tool calling, retrieval, evals, applied ML, full-stack]
 building:   multilingual support agents for Indian D2C brands
 background: QA automation → AI engineering
 approach:   measure first · guardrails in code · ship small, test everything
@@ -43,15 +43,18 @@ approach:   measure first · guardrails in code · ship small, test everything
 ### `$ cat stack.txt`
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,pytorch,nodejs,js,html,css,sqlite,git,github,githubactions,vscode&theme=dark&perline=13" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,nodejs,express,fastapi,sklearn,postgres,mysql,mongodb,redis,sqlite,docker,aws,githubactions,postman,git&theme=dark&perline=10" alt="Tech stack">
 </p>
 
 | Layer | Tools |
 |---|---|
 | **AI / LLM** | OpenAI-compatible tool calling, Pydantic schemas, BM25 + embedding retrieval, eval suites |
 | **ML** | scikit-learn, pandas, NumPy, Matplotlib, Seaborn, Streamlit |
-| **Backend** | Python, FastAPI, Node.js, REST APIs, SQLite |
-| **Practice** | pytest, `node:test`, GitHub Actions, tracing for latency, tokens and cost |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
+| **Backend** | Python, FastAPI, Node.js, Express.js, REST APIs |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQLite |
+| **DevOps** | Docker, AWS, GitHub Actions, CI/CD |
+| **Testing** | pytest, `node:test`, Postman, API testing, tracing for latency, tokens and cost |
 
 <br>
 
