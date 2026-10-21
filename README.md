@@ -32,9 +32,12 @@ approach:   measure first · guardrails in code · ship small, test everything
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/Shriyam-22/d2c-support-agent"><img src="./assets/card-d2c-support-agent.svg" alt="D2C Support Agent" width="100%"></a></td>
-<td width="33%" valign="top"><a href="https://github.com/Shriyam-22/breast-cancer-ml"><img src="./assets/card-breast-cancer-ml.svg" alt="Breast Cancer Classifier" width="100%"></a></td>
-<td width="33%" valign="top"><a href="https://github.com/Shriyam-22/clipping"><img src="./assets/card-clipping.svg" alt="Clipping" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Shriyam-22/agent-ops-console"><img src="./assets/card-agent-ops-console.svg" alt="Agent Ops Console" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Shriyam-22/d2c-support-agent"><img src="./assets/card-d2c-support-agent.svg" alt="D2C Support Agent" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Shriyam-22/breast-cancer-ml"><img src="./assets/card-breast-cancer-ml.svg" alt="Breast Cancer Classifier" width="100%"></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Shriyam-22/clipping"><img src="./assets/card-clipping.svg" alt="Clipping" width="100%"></a></td>
 </tr>
 </table>
 
