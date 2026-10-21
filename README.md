@@ -13,6 +13,8 @@
 
 ### `$ whoami`
 
+<img src="./assets/profile.png" alt="Shriyam" width="190" align="right">
+
 I build AI products that hold up outside the demo: LLM agents with real tools, guardrails that check the model's work in code, and eval suites that say whether a change made things better or worse. I also ship the software around them, from REST APIs and databases to the interface people actually use.
 
 I come from test automation, and it shows: I ship with tests that run offline, and back AI claims with evals, not screenshots.
