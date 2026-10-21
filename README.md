@@ -55,7 +55,7 @@ approach:   measure first · guardrails in code · ship small, test everything
 
 <br>
 
-### `$ git log --languages`
+### `$ cloc .`
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriyam-22&layout=compact&card_width=420&hide_border=true&bg_color=0B0F1E&title_color=C6FF3D&text_color=A3A9C7" height="165" alt="Top languages">
